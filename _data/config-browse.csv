@@ -4,3 +4,6 @@ creator,Creator,,,
 subject,,true
 location,,true
 identifier,,,true,Identifier
+bundle install
+bundle exec jekyll s
+
